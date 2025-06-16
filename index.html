@@ -72,13 +72,35 @@
     let currentData = null;
     let currentForm = null;
 
-    async function loadRandomData() {
-      const totalPages = 2; // Số lượng trang JSON có sẵn
-      const page = Math.floor(Math.random() * totalPages) + 1;
-      const res = await fetch(`verbs/page_${page}.json`);
-      const verbs = await res.json();
-      return verbs[Math.floor(Math.random() * verbs.length)];
+    const usedVerbs = new Set();
+
+async function loadRandomData() {
+  const totalPages = 10;
+  const page = Math.floor(Math.random() * totalPages) + 1;
+  const res = await fetch(`verbs/page_${page}.json`);
+  const verbs = await res.json();
+
+  // Gán trọng số
+  const weightedVerbs = verbs.map(verb => {
+    return {
+      verb,
+      weight: usedVerbs.has(verb) ? 0.2 : 1  // từ đã gặp có weight nhỏ hơn
+    };
+  });
+
+  // Tổng trọng số
+  const totalWeight = weightedVerbs.reduce((sum, v) => sum + v.weight, 0);
+
+  // Chọn ngẫu nhiên theo trọng số
+  let random = Math.random() * totalWeight;
+  for (const item of weightedVerbs) {
+    if (random < item.weight) {
+      usedVerbs.add(item.verb);  // nhớ từ đã chọn
+      return item.verb;
     }
+    random -= item.weight;
+  }
+}
 
     function playAudio(src) {
       if (!src) return;

@@ -156,8 +156,8 @@ async function scrapePage(page) {
 }
 
 (async () => {
-  const startPage = 3;  // thay đổi trang bắt đầu
-  const endPage = 4;    // thay đổi trang kết thúc
+  const startPage = 5;  // thay đổi trang bắt đầu
+  const endPage = 20;    // thay đổi trang kết thúc
 
   for (let page = startPage; page <= endPage; page++) {
     console.log(`Đang lấy trang ${page}...`);
