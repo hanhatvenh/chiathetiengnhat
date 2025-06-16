@@ -1,0 +1,1562 @@
+[
+  {
+    "cleanedVerb": "収まります",
+    "meaning": "Bình tĩnh; bình thường; lặng (gió); Giải quyết; kết thúc; Lòng thỏa mãn; lòng vui ý đủ; tốt đẹp; trọn vẹn; tốt hơn; Thu; nạp; chứa",
+    "forms": [
+      {
+        "type": "Thể từ điển",
+        "text": "おさまる",
+        "femaleVoice": "voices\\page_37\\153_1_1_female.mp3",
+        "maleVoice": "voices\\page_37\\153_1_1_male.mp3"
+      },
+      {
+        "type": "Thể masu",
+        "text": "おさまります",
+        "femaleVoice": "voices\\page_37\\153_2_1_female.mp3",
+        "maleVoice": "voices\\page_37\\153_2_1_male.mp3"
+      },
+      {
+        "type": "Thể te",
+        "text": "おさまって",
+        "femaleVoice": "voices\\page_37\\153_3_1_female.mp3",
+        "maleVoice": "voices\\page_37\\153_3_1_male.mp3"
+      },
+      {
+        "type": "Thể ta",
+        "text": "おさまった",
+        "femaleVoice": "voices\\page_37\\153_4_1_female.mp3",
+        "maleVoice": "voices\\page_37\\153_4_1_male.mp3"
+      },
+      {
+        "type": "Thể nai",
+        "text": "おさまらない",
+        "femaleVoice": "voices\\page_37\\153_5_1_female.mp3",
+        "maleVoice": "voices\\page_37\\153_5_1_male.mp3"
+      },
+      {
+        "type": "Thể nakatta",
+        "text": "おさまらなかった",
+        "femaleVoice": "voices\\page_37\\153_6_1_female.mp3",
+        "maleVoice": "voices\\page_37\\153_6_1_male.mp3"
+      },
+      {
+        "type": "Thể ba",
+        "text": "おさまれば",
+        "femaleVoice": "voices\\page_37\\153_7_1_female.mp3",
+        "maleVoice": "voices\\page_37\\153_7_1_male.mp3"
+      },
+      {
+        "type": "Thể sai khiến",
+        "text": "おさまらせる",
+        "femaleVoice": "voices\\page_37\\153_8_1_female.mp3",
+        "maleVoice": "voices\\page_37\\153_8_1_male.mp3"
+      },
+      {
+        "type": "Thể bị động",
+        "text": "おさまられる",
+        "femaleVoice": "voices\\page_37\\153_9_1_female.mp3",
+        "maleVoice": "voices\\page_37\\153_9_1_male.mp3"
+      },
+      {
+        "type": "Thể mệnh lệnh",
+        "text": "おさまれ",
+        "femaleVoice": "voices\\page_37\\153_10_1_female.mp3",
+        "maleVoice": "voices\\page_37\\153_10_1_male.mp3"
+      },
+      {
+        "type": "Thể khả năng",
+        "text": "おさまれる",
+        "femaleVoice": "voices\\page_37\\153_11_1_female.mp3",
+        "maleVoice": "voices\\page_37\\153_11_1_male.mp3"
+      },
+      {
+        "type": "Thể ý chí",
+        "text": "おさまろう",
+        "femaleVoice": "voices\\page_37\\153_12_1_female.mp3",
+        "maleVoice": "voices\\page_37\\153_12_1_male.mp3"
+      }
+    ]
+  },
+  {
+    "cleanedVerb": "押し合います",
+    "meaning": "Không tìm thấy nghĩa",
+    "forms": [
+      {
+        "type": "Thể từ điển",
+        "text": "おしあう",
+        "femaleVoice": "voices\\page_37\\154_1_1_female.mp3",
+        "maleVoice": "voices\\page_37\\154_1_1_male.mp3"
+      },
+      {
+        "type": "Thể masu",
+        "text": "おしあいます",
+        "femaleVoice": "voices\\page_37\\154_2_1_female.mp3",
+        "maleVoice": "voices\\page_37\\154_2_1_male.mp3"
+      },
+      {
+        "type": "Thể te",
+        "text": "おしあって",
+        "femaleVoice": "voices\\page_37\\154_3_1_female.mp3",
+        "maleVoice": "voices\\page_37\\154_3_1_male.mp3"
+      },
+      {
+        "type": "Thể ta",
+        "text": "おしあった",
+        "femaleVoice": "voices\\page_37\\154_4_1_female.mp3",
+        "maleVoice": "voices\\page_37\\154_4_1_male.mp3"
+      },
+      {
+        "type": "Thể nai",
+        "text": "おしあわない",
+        "femaleVoice": "voices\\page_37\\154_5_1_female.mp3",
+        "maleVoice": "voices\\page_37\\154_5_1_male.mp3"
+      },
+      {
+        "type": "Thể nakatta",
+        "text": "おしあわなかった",
+        "femaleVoice": "voices\\page_37\\154_6_1_female.mp3",
+        "maleVoice": "voices\\page_37\\154_6_1_male.mp3"
+      },
+      {
+        "type": "Thể ba",
+        "text": "おしあえば",
+        "femaleVoice": "voices\\page_37\\154_7_1_female.mp3",
+        "maleVoice": "voices\\page_37\\154_7_1_male.mp3"
+      },
+      {
+        "type": "Thể sai khiến",
+        "text": "おしあわせる",
+        "femaleVoice": "voices\\page_37\\154_8_1_female.mp3",
+        "maleVoice": "voices\\page_37\\154_8_1_male.mp3"
+      },
+      {
+        "type": "Thể bị động",
+        "text": "おしあわれる",
+        "femaleVoice": "voices\\page_37\\154_9_1_female.mp3",
+        "maleVoice": "voices\\page_37\\154_9_1_male.mp3"
+      },
+      {
+        "type": "Thể mệnh lệnh",
+        "text": "おしあえ",
+        "femaleVoice": "voices\\page_37\\154_10_1_female.mp3",
+        "maleVoice": "voices\\page_37\\154_10_1_male.mp3"
+      },
+      {
+        "type": "Thể khả năng",
+        "text": "おしあえる",
+        "femaleVoice": "voices\\page_37\\154_11_1_female.mp3",
+        "maleVoice": "voices\\page_37\\154_11_1_male.mp3"
+      },
+      {
+        "type": "Thể ý chí",
+        "text": "おしあおう",
+        "femaleVoice": "voices\\page_37\\154_12_1_female.mp3",
+        "maleVoice": "voices\\page_37\\154_12_1_male.mp3"
+      }
+    ]
+  },
+  {
+    "cleanedVerb": "押し切ります",
+    "meaning": "Quyết tâm đến cùng; cắt rời ra; máy cắt giấy, máy xén giấy",
+    "forms": [
+      {
+        "type": "Thể từ điển",
+        "text": "おしきる",
+        "femaleVoice": "voices\\page_37\\155_1_1_female.mp3",
+        "maleVoice": "voices\\page_37\\155_1_1_male.mp3"
+      },
+      {
+        "type": "Thể masu",
+        "text": "おしきります",
+        "femaleVoice": "voices\\page_37\\155_2_1_female.mp3",
+        "maleVoice": "voices\\page_37\\155_2_1_male.mp3"
+      },
+      {
+        "type": "Thể te",
+        "text": "おしきって",
+        "femaleVoice": "voices\\page_37\\155_3_1_female.mp3",
+        "maleVoice": "voices\\page_37\\155_3_1_male.mp3"
+      },
+      {
+        "type": "Thể ta",
+        "text": "おしきった",
+        "femaleVoice": "voices\\page_37\\155_4_1_female.mp3",
+        "maleVoice": "voices\\page_37\\155_4_1_male.mp3"
+      },
+      {
+        "type": "Thể nai",
+        "text": "おしきらない",
+        "femaleVoice": "voices\\page_37\\155_5_1_female.mp3",
+        "maleVoice": "voices\\page_37\\155_5_1_male.mp3"
+      },
+      {
+        "type": "Thể nakatta",
+        "text": "おしきらなかった",
+        "femaleVoice": "voices\\page_37\\155_6_1_female.mp3",
+        "maleVoice": "voices\\page_37\\155_6_1_male.mp3"
+      },
+      {
+        "type": "Thể ba",
+        "text": "おしきれば",
+        "femaleVoice": "voices\\page_37\\155_7_1_female.mp3",
+        "maleVoice": "voices\\page_37\\155_7_1_male.mp3"
+      },
+      {
+        "type": "Thể sai khiến",
+        "text": "おしきらせる",
+        "femaleVoice": "voices\\page_37\\155_8_1_female.mp3",
+        "maleVoice": "voices\\page_37\\155_8_1_male.mp3"
+      },
+      {
+        "type": "Thể bị động",
+        "text": "おしきられる",
+        "femaleVoice": "voices\\page_37\\155_9_1_female.mp3",
+        "maleVoice": "voices\\page_37\\155_9_1_male.mp3"
+      },
+      {
+        "type": "Thể mệnh lệnh",
+        "text": "おしきれ",
+        "femaleVoice": "voices\\page_37\\155_10_1_female.mp3",
+        "maleVoice": "voices\\page_37\\155_10_1_male.mp3"
+      },
+      {
+        "type": "Thể khả năng",
+        "text": "おしきれる",
+        "femaleVoice": "voices\\page_37\\155_11_1_female.mp3",
+        "maleVoice": "voices\\page_37\\155_11_1_male.mp3"
+      },
+      {
+        "type": "Thể ý chí",
+        "text": "おしきろう",
+        "femaleVoice": "voices\\page_37\\155_12_1_female.mp3",
+        "maleVoice": "voices\\page_37\\155_12_1_male.mp3"
+      }
+    ]
+  },
+  {
+    "cleanedVerb": "押し込みます",
+    "meaning": "Gán.",
+    "forms": [
+      {
+        "type": "Thể từ điển",
+        "text": "おしこむ",
+        "femaleVoice": "voices\\page_37\\156_1_1_female.mp3",
+        "maleVoice": "voices\\page_37\\156_1_1_male.mp3"
+      },
+      {
+        "type": "Thể masu",
+        "text": "おしこみます",
+        "femaleVoice": "voices\\page_37\\156_2_1_female.mp3",
+        "maleVoice": "voices\\page_37\\156_2_1_male.mp3"
+      },
+      {
+        "type": "Thể te",
+        "text": "おしこんで",
+        "femaleVoice": "voices\\page_37\\156_3_1_female.mp3",
+        "maleVoice": "voices\\page_37\\156_3_1_male.mp3"
+      },
+      {
+        "type": "Thể ta",
+        "text": "おしこんだ",
+        "femaleVoice": "voices\\page_37\\156_4_1_female.mp3",
+        "maleVoice": "voices\\page_37\\156_4_1_male.mp3"
+      },
+      {
+        "type": "Thể nai",
+        "text": "おしこまない",
+        "femaleVoice": "voices\\page_37\\156_5_1_female.mp3",
+        "maleVoice": "voices\\page_37\\156_5_1_male.mp3"
+      },
+      {
+        "type": "Thể nakatta",
+        "text": "おしこまなかった",
+        "femaleVoice": "voices\\page_37\\156_6_1_female.mp3",
+        "maleVoice": "voices\\page_37\\156_6_1_male.mp3"
+      },
+      {
+        "type": "Thể ba",
+        "text": "おしこめば",
+        "femaleVoice": "voices\\page_37\\156_7_1_female.mp3",
+        "maleVoice": "voices\\page_37\\156_7_1_male.mp3"
+      },
+      {
+        "type": "Thể sai khiến",
+        "text": "おしこませる",
+        "femaleVoice": "voices\\page_37\\156_8_1_female.mp3",
+        "maleVoice": "voices\\page_37\\156_8_1_male.mp3"
+      },
+      {
+        "type": "Thể bị động",
+        "text": "おしこまれる",
+        "femaleVoice": "voices\\page_37\\156_9_1_female.mp3",
+        "maleVoice": "voices\\page_37\\156_9_1_male.mp3"
+      },
+      {
+        "type": "Thể mệnh lệnh",
+        "text": "おしこめ",
+        "femaleVoice": "voices\\page_37\\156_10_1_female.mp3",
+        "maleVoice": "voices\\page_37\\156_10_1_male.mp3"
+      },
+      {
+        "type": "Thể khả năng",
+        "text": "おしこめる",
+        "femaleVoice": "voices\\page_37\\156_11_1_female.mp3",
+        "maleVoice": "voices\\page_37\\156_11_1_male.mp3"
+      },
+      {
+        "type": "Thể ý chí",
+        "text": "おしこもう",
+        "femaleVoice": "voices\\page_37\\156_12_1_female.mp3",
+        "maleVoice": "voices\\page_37\\156_12_1_male.mp3"
+      }
+    ]
+  },
+  {
+    "cleanedVerb": "陥ります",
+    "meaning": "Rơi vào",
+    "forms": [
+      {
+        "type": "Thể từ điển",
+        "text": "おちいる",
+        "femaleVoice": "voices\\page_37\\159_1_1_female.mp3",
+        "maleVoice": "voices\\page_37\\159_1_1_male.mp3"
+      },
+      {
+        "type": "Thể masu",
+        "text": "おちいります",
+        "femaleVoice": "voices\\page_37\\159_2_1_female.mp3",
+        "maleVoice": "voices\\page_37\\159_2_1_male.mp3"
+      },
+      {
+        "type": "Thể te",
+        "text": "おちいって",
+        "femaleVoice": "voices\\page_37\\159_3_1_female.mp3",
+        "maleVoice": "voices\\page_37\\159_3_1_male.mp3"
+      },
+      {
+        "type": "Thể ta",
+        "text": "おちいった",
+        "femaleVoice": "voices\\page_37\\159_4_1_female.mp3",
+        "maleVoice": "voices\\page_37\\159_4_1_male.mp3"
+      },
+      {
+        "type": "Thể nai",
+        "text": "おちいらない",
+        "femaleVoice": "voices\\page_37\\159_5_1_female.mp3",
+        "maleVoice": "voices\\page_37\\159_5_1_male.mp3"
+      },
+      {
+        "type": "Thể nakatta",
+        "text": "おちいらなかった",
+        "femaleVoice": "voices\\page_37\\159_6_1_female.mp3",
+        "maleVoice": "voices\\page_37\\159_6_1_male.mp3"
+      },
+      {
+        "type": "Thể ba",
+        "text": "おちいれば",
+        "femaleVoice": "voices\\page_37\\159_7_1_female.mp3",
+        "maleVoice": "voices\\page_37\\159_7_1_male.mp3"
+      },
+      {
+        "type": "Thể sai khiến",
+        "text": "おちいらせる",
+        "femaleVoice": "voices\\page_37\\159_8_1_female.mp3",
+        "maleVoice": "voices\\page_37\\159_8_1_male.mp3"
+      },
+      {
+        "type": "Thể bị động",
+        "text": "おちいられる",
+        "femaleVoice": "voices\\page_37\\159_9_1_female.mp3",
+        "maleVoice": "voices\\page_37\\159_9_1_male.mp3"
+      },
+      {
+        "type": "Thể mệnh lệnh",
+        "text": "おちいれ",
+        "femaleVoice": "voices\\page_37\\159_10_1_female.mp3",
+        "maleVoice": "voices\\page_37\\159_10_1_male.mp3"
+      },
+      {
+        "type": "Thể khả năng",
+        "text": "",
+        "femaleVoice": null,
+        "maleVoice": null
+      },
+      {
+        "type": "Thể ý chí",
+        "text": "おちいろう",
+        "femaleVoice": "voices\\page_37\\159_12_1_female.mp3",
+        "maleVoice": "voices\\page_37\\159_12_1_male.mp3"
+      }
+    ]
+  },
+  {
+    "cleanedVerb": "おっしゃいます",
+    "meaning": "Nói (kính ngữ của 言う)",
+    "forms": [
+      {
+        "type": "Thể từ điển",
+        "text": "おっしゃる",
+        "femaleVoice": "voices\\page_37\\160_1_1_female.mp3",
+        "maleVoice": "voices\\page_37\\160_1_1_male.mp3"
+      },
+      {
+        "type": "Thể masu",
+        "text": "おっしゃいます",
+        "femaleVoice": "voices\\page_37\\160_2_1_female.mp3",
+        "maleVoice": "voices\\page_37\\160_2_1_male.mp3"
+      },
+      {
+        "type": "Thể te",
+        "text": "おっしゃって",
+        "femaleVoice": "voices\\page_37\\160_3_1_female.mp3",
+        "maleVoice": "voices\\page_37\\160_3_1_male.mp3"
+      },
+      {
+        "type": "Thể ta",
+        "text": "おっしゃった",
+        "femaleVoice": "voices\\page_37\\160_4_1_female.mp3",
+        "maleVoice": "voices\\page_37\\160_4_1_male.mp3"
+      },
+      {
+        "type": "Thể nai",
+        "text": "おっしゃらない",
+        "femaleVoice": "voices\\page_37\\160_5_1_female.mp3",
+        "maleVoice": "voices\\page_37\\160_5_1_male.mp3"
+      },
+      {
+        "type": "Thể nakatta",
+        "text": "おっしゃらなかった",
+        "femaleVoice": "voices\\page_37\\160_6_1_female.mp3",
+        "maleVoice": "voices\\page_37\\160_6_1_male.mp3"
+      },
+      {
+        "type": "Thể ba",
+        "text": "おっしゃれば",
+        "femaleVoice": "voices\\page_37\\160_7_1_female.mp3",
+        "maleVoice": "voices\\page_37\\160_7_1_male.mp3"
+      },
+      {
+        "type": "Thể sai khiến",
+        "text": "おっしゃらせる",
+        "femaleVoice": "voices\\page_37\\160_8_1_female.mp3",
+        "maleVoice": "voices\\page_37\\160_8_1_male.mp3"
+      },
+      {
+        "type": "Thể bị động",
+        "text": "おっしゃられる",
+        "femaleVoice": "voices\\page_37\\160_9_1_female.mp3",
+        "maleVoice": "voices\\page_37\\160_9_1_male.mp3"
+      },
+      {
+        "type": "Thể mệnh lệnh",
+        "text": "おっしゃい",
+        "femaleVoice": "voices\\page_37\\160_10_1_female.mp3",
+        "maleVoice": "voices\\page_37\\160_10_1_male.mp3"
+      },
+      {
+        "type": "Thể khả năng",
+        "text": "おっしゃれる",
+        "femaleVoice": "voices\\page_37\\160_11_1_female.mp3",
+        "maleVoice": "voices\\page_37\\160_11_1_male.mp3"
+      },
+      {
+        "type": "Thể ý chí",
+        "text": "おっしゃろう",
+        "femaleVoice": "voices\\page_37\\160_12_1_female.mp3",
+        "maleVoice": "voices\\page_37\\160_12_1_male.mp3"
+      }
+    ]
+  },
+  {
+    "cleanedVerb": "驚きます",
+    "meaning": "Giật mình; Kinh; Ngạc nhiên; Thất kinh.",
+    "forms": [
+      {
+        "type": "Thể từ điển",
+        "text": "おどろく",
+        "femaleVoice": "voices\\page_37\\164_1_1_female.mp3",
+        "maleVoice": "voices\\page_37\\164_1_1_male.mp3"
+      },
+      {
+        "type": "Thể masu",
+        "text": "おどろきます",
+        "femaleVoice": "voices\\page_37\\164_2_1_female.mp3",
+        "maleVoice": "voices\\page_37\\164_2_1_male.mp3"
+      },
+      {
+        "type": "Thể te",
+        "text": "おどろいて",
+        "femaleVoice": "voices\\page_37\\164_3_1_female.mp3",
+        "maleVoice": "voices\\page_37\\164_3_1_male.mp3"
+      },
+      {
+        "type": "Thể ta",
+        "text": "おどろいた",
+        "femaleVoice": "voices\\page_37\\164_4_1_female.mp3",
+        "maleVoice": "voices\\page_37\\164_4_1_male.mp3"
+      },
+      {
+        "type": "Thể nai",
+        "text": "おどろかない",
+        "femaleVoice": "voices\\page_37\\164_5_1_female.mp3",
+        "maleVoice": "voices\\page_37\\164_5_1_male.mp3"
+      },
+      {
+        "type": "Thể nakatta",
+        "text": "おどろかなかった",
+        "femaleVoice": "voices\\page_37\\164_6_1_female.mp3",
+        "maleVoice": "voices\\page_37\\164_6_1_male.mp3"
+      },
+      {
+        "type": "Thể ba",
+        "text": "おどろけば",
+        "femaleVoice": "voices\\page_37\\164_7_1_female.mp3",
+        "maleVoice": "voices\\page_37\\164_7_1_male.mp3"
+      },
+      {
+        "type": "Thể sai khiến",
+        "text": "おどろかせる",
+        "femaleVoice": "voices\\page_37\\164_8_1_female.mp3",
+        "maleVoice": "voices\\page_37\\164_8_1_male.mp3"
+      },
+      {
+        "type": "Thể bị động",
+        "text": "おどろかれる",
+        "femaleVoice": "voices\\page_37\\164_9_1_female.mp3",
+        "maleVoice": "voices\\page_37\\164_9_1_male.mp3"
+      },
+      {
+        "type": "Thể mệnh lệnh",
+        "text": "おどろけ",
+        "femaleVoice": "voices\\page_37\\164_10_1_female.mp3",
+        "maleVoice": "voices\\page_37\\164_10_1_male.mp3"
+      },
+      {
+        "type": "Thể khả năng",
+        "text": "おどろける",
+        "femaleVoice": "voices\\page_37\\164_11_1_female.mp3",
+        "maleVoice": "voices\\page_37\\164_11_1_male.mp3"
+      },
+      {
+        "type": "Thể ý chí",
+        "text": "おどろこう",
+        "femaleVoice": "voices\\page_37\\164_12_1_female.mp3",
+        "maleVoice": "voices\\page_37\\164_12_1_male.mp3"
+      }
+    ]
+  },
+  {
+    "cleanedVerb": "赴きます",
+    "meaning": "Bổ nhiệm chức vụ mới; Tới; đến; đi về phía; xu hướng; phát triển theo hướng",
+    "forms": [
+      {
+        "type": "Thể từ điển",
+        "text": "おもむく",
+        "femaleVoice": "voices\\page_37\\173_1_1_female.mp3",
+        "maleVoice": "voices\\page_37\\173_1_1_male.mp3"
+      },
+      {
+        "type": "Thể masu",
+        "text": "おもむきます",
+        "femaleVoice": "voices\\page_37\\173_2_1_female.mp3",
+        "maleVoice": "voices\\page_37\\173_2_1_male.mp3"
+      },
+      {
+        "type": "Thể te",
+        "text": "おもむいて",
+        "femaleVoice": "voices\\page_37\\173_3_1_female.mp3",
+        "maleVoice": "voices\\page_37\\173_3_1_male.mp3"
+      },
+      {
+        "type": "Thể ta",
+        "text": "おもむいた",
+        "femaleVoice": "voices\\page_37\\173_4_1_female.mp3",
+        "maleVoice": "voices\\page_37\\173_4_1_male.mp3"
+      },
+      {
+        "type": "Thể nai",
+        "text": "おもむかない",
+        "femaleVoice": "voices\\page_37\\173_5_1_female.mp3",
+        "maleVoice": "voices\\page_37\\173_5_1_male.mp3"
+      },
+      {
+        "type": "Thể nakatta",
+        "text": "おもむかなかった",
+        "femaleVoice": "voices\\page_37\\173_6_1_female.mp3",
+        "maleVoice": "voices\\page_37\\173_6_1_male.mp3"
+      },
+      {
+        "type": "Thể ba",
+        "text": "おもむけば",
+        "femaleVoice": "voices\\page_37\\173_7_1_female.mp3",
+        "maleVoice": "voices\\page_37\\173_7_1_male.mp3"
+      },
+      {
+        "type": "Thể sai khiến",
+        "text": "おもむかせる",
+        "femaleVoice": "voices\\page_37\\173_8_1_female.mp3",
+        "maleVoice": "voices\\page_37\\173_8_1_male.mp3"
+      },
+      {
+        "type": "Thể bị động",
+        "text": "おもむかれる",
+        "femaleVoice": "voices\\page_37\\173_9_1_female.mp3",
+        "maleVoice": "voices\\page_37\\173_9_1_male.mp3"
+      },
+      {
+        "type": "Thể mệnh lệnh",
+        "text": "おもむけ",
+        "femaleVoice": "voices\\page_37\\173_10_1_female.mp3",
+        "maleVoice": "voices\\page_37\\173_10_1_male.mp3"
+      },
+      {
+        "type": "Thể khả năng",
+        "text": "おもむける",
+        "femaleVoice": "voices\\page_37\\173_11_1_female.mp3",
+        "maleVoice": "voices\\page_37\\173_11_1_male.mp3"
+      },
+      {
+        "type": "Thể ý chí",
+        "text": "おもむこう",
+        "femaleVoice": "voices\\page_37\\173_12_1_female.mp3",
+        "maleVoice": "voices\\page_37\\173_12_1_male.mp3"
+      }
+    ]
+  },
+  {
+    "cleanedVerb": "及ぼします",
+    "meaning": "Gây (ảnh hưởng, hại)",
+    "forms": [
+      {
+        "type": "Thể từ điển",
+        "text": "およぼす",
+        "femaleVoice": "voices\\page_37\\175_1_1_female.mp3",
+        "maleVoice": "voices\\page_37\\175_1_1_male.mp3"
+      },
+      {
+        "type": "Thể masu",
+        "text": "およぼします",
+        "femaleVoice": "voices\\page_37\\175_2_1_female.mp3",
+        "maleVoice": "voices\\page_37\\175_2_1_male.mp3"
+      },
+      {
+        "type": "Thể te",
+        "text": "およぼして",
+        "femaleVoice": "voices\\page_37\\175_3_1_female.mp3",
+        "maleVoice": "voices\\page_37\\175_3_1_male.mp3"
+      },
+      {
+        "type": "Thể ta",
+        "text": "およぼした",
+        "femaleVoice": "voices\\page_37\\175_4_1_female.mp3",
+        "maleVoice": "voices\\page_37\\175_4_1_male.mp3"
+      },
+      {
+        "type": "Thể nai",
+        "text": "およぼさない",
+        "femaleVoice": "voices\\page_37\\175_5_1_female.mp3",
+        "maleVoice": "voices\\page_37\\175_5_1_male.mp3"
+      },
+      {
+        "type": "Thể nakatta",
+        "text": "およぼさなかった",
+        "femaleVoice": "voices\\page_37\\175_6_1_female.mp3",
+        "maleVoice": "voices\\page_37\\175_6_1_male.mp3"
+      },
+      {
+        "type": "Thể ba",
+        "text": "およぼせば",
+        "femaleVoice": "voices\\page_37\\175_7_1_female.mp3",
+        "maleVoice": "voices\\page_37\\175_7_1_male.mp3"
+      },
+      {
+        "type": "Thể sai khiến",
+        "text": "およぼさせる",
+        "femaleVoice": "voices\\page_37\\175_8_1_female.mp3",
+        "maleVoice": "voices\\page_37\\175_8_1_male.mp3"
+      },
+      {
+        "type": "Thể bị động",
+        "text": "およぼされる",
+        "femaleVoice": "voices\\page_37\\175_9_1_female.mp3",
+        "maleVoice": "voices\\page_37\\175_9_1_male.mp3"
+      },
+      {
+        "type": "Thể mệnh lệnh",
+        "text": "およぼせ",
+        "femaleVoice": "voices\\page_37\\175_10_1_female.mp3",
+        "maleVoice": "voices\\page_37\\175_10_1_male.mp3"
+      },
+      {
+        "type": "Thể khả năng",
+        "text": "およぼせる",
+        "femaleVoice": "voices\\page_37\\175_11_1_female.mp3",
+        "maleVoice": "voices\\page_37\\175_11_1_male.mp3"
+      },
+      {
+        "type": "Thể ý chí",
+        "text": "およぼそう",
+        "femaleVoice": "voices\\page_37\\175_12_1_female.mp3",
+        "maleVoice": "voices\\page_37\\175_12_1_male.mp3"
+      }
+    ]
+  },
+  {
+    "cleanedVerb": "降り立ちます",
+    "meaning": "Đặt chân",
+    "forms": [
+      {
+        "type": "Thể từ điển",
+        "text": "おりたつ",
+        "femaleVoice": "voices\\page_37\\778_1_1_female.mp3",
+        "maleVoice": "voices\\page_37\\778_1_1_male.mp3"
+      },
+      {
+        "type": "Thể masu",
+        "text": "おりたちます",
+        "femaleVoice": "voices\\page_37\\778_2_1_female.mp3",
+        "maleVoice": "voices\\page_37\\778_2_1_male.mp3"
+      },
+      {
+        "type": "Thể te",
+        "text": "おりたって",
+        "femaleVoice": "voices\\page_37\\778_3_1_female.mp3",
+        "maleVoice": "voices\\page_37\\778_3_1_male.mp3"
+      },
+      {
+        "type": "Thể ta",
+        "text": "おりたった",
+        "femaleVoice": "voices\\page_37\\778_4_1_female.mp3",
+        "maleVoice": "voices\\page_37\\778_4_1_male.mp3"
+      },
+      {
+        "type": "Thể nai",
+        "text": "おりたたない",
+        "femaleVoice": "voices\\page_37\\778_5_1_female.mp3",
+        "maleVoice": "voices\\page_37\\778_5_1_male.mp3"
+      },
+      {
+        "type": "Thể nakatta",
+        "text": "おりたたなかった",
+        "femaleVoice": "voices\\page_37\\778_6_1_female.mp3",
+        "maleVoice": "voices\\page_37\\778_6_1_male.mp3"
+      },
+      {
+        "type": "Thể ba",
+        "text": "おりたてば",
+        "femaleVoice": "voices\\page_37\\778_7_1_female.mp3",
+        "maleVoice": "voices\\page_37\\778_7_1_male.mp3"
+      },
+      {
+        "type": "Thể sai khiến",
+        "text": "おりたたせる",
+        "femaleVoice": "voices\\page_37\\778_8_1_female.mp3",
+        "maleVoice": "voices\\page_37\\778_8_1_male.mp3"
+      },
+      {
+        "type": "Thể bị động",
+        "text": "おりたたれる",
+        "femaleVoice": "voices\\page_37\\778_9_1_female.mp3",
+        "maleVoice": "voices\\page_37\\778_9_1_male.mp3"
+      },
+      {
+        "type": "Thể mệnh lệnh",
+        "text": "おりたて",
+        "femaleVoice": "voices\\page_37\\778_10_1_female.mp3",
+        "maleVoice": "voices\\page_37\\778_10_1_male.mp3"
+      },
+      {
+        "type": "Thể khả năng",
+        "text": "おりたてる",
+        "femaleVoice": "voices\\page_37\\778_11_1_female.mp3",
+        "maleVoice": "voices\\page_37\\778_11_1_male.mp3"
+      },
+      {
+        "type": "Thể ý chí",
+        "text": "おりたとう",
+        "femaleVoice": "voices\\page_37\\778_12_1_female.mp3",
+        "maleVoice": "voices\\page_37\\778_12_1_male.mp3"
+      }
+    ]
+  },
+  {
+    "cleanedVerb": "係わります",
+    "meaning": "Liên quan",
+    "forms": [
+      {
+        "type": "Thể từ điển",
+        "text": "かかわる",
+        "femaleVoice": "voices\\page_37\\187_1_1_female.mp3",
+        "maleVoice": "voices\\page_37\\187_1_1_male.mp3"
+      },
+      {
+        "type": "Thể masu",
+        "text": "かかわります",
+        "femaleVoice": "voices\\page_37\\187_2_1_female.mp3",
+        "maleVoice": "voices\\page_37\\187_2_1_male.mp3"
+      },
+      {
+        "type": "Thể te",
+        "text": "かかわって",
+        "femaleVoice": "voices\\page_37\\187_3_1_female.mp3",
+        "maleVoice": "voices\\page_37\\187_3_1_male.mp3"
+      },
+      {
+        "type": "Thể ta",
+        "text": "かかわった",
+        "femaleVoice": "voices\\page_37\\187_4_1_female.mp3",
+        "maleVoice": "voices\\page_37\\187_4_1_male.mp3"
+      },
+      {
+        "type": "Thể nai",
+        "text": "かかわらない",
+        "femaleVoice": "voices\\page_37\\187_5_1_female.mp3",
+        "maleVoice": "voices\\page_37\\187_5_1_male.mp3"
+      },
+      {
+        "type": "Thể nakatta",
+        "text": "かかわらなかった",
+        "femaleVoice": "voices\\page_37\\187_6_1_female.mp3",
+        "maleVoice": "voices\\page_37\\187_6_1_male.mp3"
+      },
+      {
+        "type": "Thể ba",
+        "text": "かかわれば",
+        "femaleVoice": "voices\\page_37\\187_7_1_female.mp3",
+        "maleVoice": "voices\\page_37\\187_7_1_male.mp3"
+      },
+      {
+        "type": "Thể sai khiến",
+        "text": "かかわらせる",
+        "femaleVoice": "voices\\page_37\\187_8_1_female.mp3",
+        "maleVoice": "voices\\page_37\\187_8_1_male.mp3"
+      },
+      {
+        "type": "Thể bị động",
+        "text": "かかわられる",
+        "femaleVoice": "voices\\page_37\\187_9_1_female.mp3",
+        "maleVoice": "voices\\page_37\\187_9_1_male.mp3"
+      },
+      {
+        "type": "Thể mệnh lệnh",
+        "text": "かかわれ",
+        "femaleVoice": "voices\\page_37\\187_10_1_female.mp3",
+        "maleVoice": "voices\\page_37\\187_10_1_male.mp3"
+      },
+      {
+        "type": "Thể khả năng",
+        "text": "かかわれる",
+        "femaleVoice": "voices\\page_37\\187_11_1_female.mp3",
+        "maleVoice": "voices\\page_37\\187_11_1_male.mp3"
+      },
+      {
+        "type": "Thể ý chí",
+        "text": "かかわろう",
+        "femaleVoice": "voices\\page_37\\187_12_1_female.mp3",
+        "maleVoice": "voices\\page_37\\187_12_1_male.mp3"
+      }
+    ]
+  },
+  {
+    "cleanedVerb": "輝きます",
+    "meaning": "Chói; Le lói; Nhấp nhoáng; Óng ánh; Sáng; Sáng choang; Tỏa sáng; chiếu lấp lánh",
+    "forms": [
+      {
+        "type": "Thể từ điển",
+        "text": "かがやく",
+        "femaleVoice": "voices\\page_37\\184_1_1_female.mp3",
+        "maleVoice": "voices\\page_37\\184_1_1_male.mp3"
+      },
+      {
+        "type": "Thể masu",
+        "text": "かがやきます",
+        "femaleVoice": "voices\\page_37\\184_2_1_female.mp3",
+        "maleVoice": "voices\\page_37\\184_2_1_male.mp3"
+      },
+      {
+        "type": "Thể te",
+        "text": "かがやいて",
+        "femaleVoice": "voices\\page_37\\184_3_1_female.mp3",
+        "maleVoice": "voices\\page_37\\184_3_1_male.mp3"
+      },
+      {
+        "type": "Thể ta",
+        "text": "かがやいた",
+        "femaleVoice": "voices\\page_37\\184_4_1_female.mp3",
+        "maleVoice": "voices\\page_37\\184_4_1_male.mp3"
+      },
+      {
+        "type": "Thể nai",
+        "text": "かがやかない",
+        "femaleVoice": "voices\\page_37\\184_5_1_female.mp3",
+        "maleVoice": "voices\\page_37\\184_5_1_male.mp3"
+      },
+      {
+        "type": "Thể nakatta",
+        "text": "かがやかなかった",
+        "femaleVoice": "voices\\page_37\\184_6_1_female.mp3",
+        "maleVoice": "voices\\page_37\\184_6_1_male.mp3"
+      },
+      {
+        "type": "Thể ba",
+        "text": "かがやけば",
+        "femaleVoice": "voices\\page_37\\184_7_1_female.mp3",
+        "maleVoice": "voices\\page_37\\184_7_1_male.mp3"
+      },
+      {
+        "type": "Thể sai khiến",
+        "text": "かがやかせる",
+        "femaleVoice": "voices\\page_37\\184_8_1_female.mp3",
+        "maleVoice": "voices\\page_37\\184_8_1_male.mp3"
+      },
+      {
+        "type": "Thể bị động",
+        "text": "かがやかれる",
+        "femaleVoice": "voices\\page_37\\184_9_1_female.mp3",
+        "maleVoice": "voices\\page_37\\184_9_1_male.mp3"
+      },
+      {
+        "type": "Thể mệnh lệnh",
+        "text": "かがやけ",
+        "femaleVoice": "voices\\page_37\\184_10_1_female.mp3",
+        "maleVoice": "voices\\page_37\\184_10_1_male.mp3"
+      },
+      {
+        "type": "Thể khả năng",
+        "text": "かがやける",
+        "femaleVoice": "voices\\page_37\\184_11_1_female.mp3",
+        "maleVoice": "voices\\page_37\\184_11_1_male.mp3"
+      },
+      {
+        "type": "Thể ý chí",
+        "text": "かがやこう",
+        "femaleVoice": "voices\\page_37\\184_12_1_female.mp3",
+        "maleVoice": "voices\\page_37\\184_12_1_male.mp3"
+      }
+    ]
+  },
+  {
+    "cleanedVerb": "書き取ります",
+    "meaning": "Viết chính tả",
+    "forms": [
+      {
+        "type": "Thể từ điển",
+        "text": "かきとる",
+        "femaleVoice": "voices\\page_37\\188_1_1_female.mp3",
+        "maleVoice": "voices\\page_37\\188_1_1_male.mp3"
+      },
+      {
+        "type": "Thể masu",
+        "text": "かきとります",
+        "femaleVoice": "voices\\page_37\\188_2_1_female.mp3",
+        "maleVoice": "voices\\page_37\\188_2_1_male.mp3"
+      },
+      {
+        "type": "Thể te",
+        "text": "かきとって",
+        "femaleVoice": "voices\\page_37\\188_3_1_female.mp3",
+        "maleVoice": "voices\\page_37\\188_3_1_male.mp3"
+      },
+      {
+        "type": "Thể ta",
+        "text": "かきとった",
+        "femaleVoice": "voices\\page_37\\188_4_1_female.mp3",
+        "maleVoice": "voices\\page_37\\188_4_1_male.mp3"
+      },
+      {
+        "type": "Thể nai",
+        "text": "かきとらない",
+        "femaleVoice": "voices\\page_37\\188_5_1_female.mp3",
+        "maleVoice": "voices\\page_37\\188_5_1_male.mp3"
+      },
+      {
+        "type": "Thể nakatta",
+        "text": "かきとらなかった",
+        "femaleVoice": "voices\\page_37\\188_6_1_female.mp3",
+        "maleVoice": "voices\\page_37\\188_6_1_male.mp3"
+      },
+      {
+        "type": "Thể ba",
+        "text": "かきとれば",
+        "femaleVoice": "voices\\page_37\\188_7_1_female.mp3",
+        "maleVoice": "voices\\page_37\\188_7_1_male.mp3"
+      },
+      {
+        "type": "Thể sai khiến",
+        "text": "かきとらせる",
+        "femaleVoice": "voices\\page_37\\188_8_1_female.mp3",
+        "maleVoice": "voices\\page_37\\188_8_1_male.mp3"
+      },
+      {
+        "type": "Thể bị động",
+        "text": "かきとられる",
+        "femaleVoice": "voices\\page_37\\188_9_1_female.mp3",
+        "maleVoice": "voices\\page_37\\188_9_1_male.mp3"
+      },
+      {
+        "type": "Thể mệnh lệnh",
+        "text": "かきとれ",
+        "femaleVoice": "voices\\page_37\\188_10_1_female.mp3",
+        "maleVoice": "voices\\page_37\\188_10_1_male.mp3"
+      },
+      {
+        "type": "Thể khả năng",
+        "text": "かきとれる",
+        "femaleVoice": "voices\\page_37\\188_11_1_female.mp3",
+        "maleVoice": "voices\\page_37\\188_11_1_male.mp3"
+      },
+      {
+        "type": "Thể ý chí",
+        "text": "かきとろう",
+        "femaleVoice": "voices\\page_37\\188_12_1_female.mp3",
+        "maleVoice": "voices\\page_37\\188_12_1_male.mp3"
+      }
+    ]
+  },
+  {
+    "cleanedVerb": "駆け出します",
+    "meaning": "Chạy ra ngoài; Chạy trốn khỏi một nơi nhất định; Bắt đầu chạy",
+    "forms": [
+      {
+        "type": "Thể từ điển",
+        "text": "かけだすかけだす",
+        "femaleVoice": "voices\\page_37\\784_1_1_female.mp3",
+        "maleVoice": "voices\\page_37\\784_1_1_male.mp3"
+      },
+      {
+        "type": "Thể masu",
+        "text": "かけだします",
+        "femaleVoice": "voices\\page_37\\784_2_1_female.mp3",
+        "maleVoice": "voices\\page_37\\784_2_1_male.mp3"
+      },
+      {
+        "type": "Thể te",
+        "text": "かけだしてかけだして",
+        "femaleVoice": "voices\\page_37\\784_3_1_female.mp3",
+        "maleVoice": "voices\\page_37\\784_3_1_male.mp3"
+      },
+      {
+        "type": "Thể ta",
+        "text": "かけだしたかけだした",
+        "femaleVoice": "voices\\page_37\\784_4_1_female.mp3",
+        "maleVoice": "voices\\page_37\\784_4_1_male.mp3"
+      },
+      {
+        "type": "Thể nai",
+        "text": "かけださないかけださない",
+        "femaleVoice": "voices\\page_37\\784_5_1_female.mp3",
+        "maleVoice": "voices\\page_37\\784_5_1_male.mp3"
+      },
+      {
+        "type": "Thể nakatta",
+        "text": "かけださなかったかけださなかった",
+        "femaleVoice": "voices\\page_37\\784_6_1_female.mp3",
+        "maleVoice": "voices\\page_37\\784_6_1_male.mp3"
+      },
+      {
+        "type": "Thể ba",
+        "text": "かけだせばかけだせば",
+        "femaleVoice": "voices\\page_37\\784_7_1_female.mp3",
+        "maleVoice": "voices\\page_37\\784_7_1_male.mp3"
+      },
+      {
+        "type": "Thể sai khiến",
+        "text": "かけださせるかけださせる",
+        "femaleVoice": "voices\\page_37\\784_8_1_female.mp3",
+        "maleVoice": "voices\\page_37\\784_8_1_male.mp3"
+      },
+      {
+        "type": "Thể bị động",
+        "text": "かけだされるかけだされる",
+        "femaleVoice": "voices\\page_37\\784_9_1_female.mp3",
+        "maleVoice": "voices\\page_37\\784_9_1_male.mp3"
+      },
+      {
+        "type": "Thể mệnh lệnh",
+        "text": "かけだせかけだせ",
+        "femaleVoice": "voices\\page_37\\784_10_1_female.mp3",
+        "maleVoice": "voices\\page_37\\784_10_1_male.mp3"
+      },
+      {
+        "type": "Thể khả năng",
+        "text": "",
+        "femaleVoice": null,
+        "maleVoice": null
+      },
+      {
+        "type": "Thể ý chí",
+        "text": "かけだそう",
+        "femaleVoice": "voices\\page_37\\784_12_1_female.mp3",
+        "maleVoice": "voices\\page_37\\784_12_1_male.mp3"
+      }
+    ]
+  },
+  {
+    "cleanedVerb": "かさばります",
+    "meaning": "Kềnh càng; Xù xù.",
+    "forms": [
+      {
+        "type": "Thể từ điển",
+        "text": "かさばる",
+        "femaleVoice": "voices\\page_37\\198_1_1_female.mp3",
+        "maleVoice": "voices\\page_37\\198_1_1_male.mp3"
+      },
+      {
+        "type": "Thể masu",
+        "text": "かさばります",
+        "femaleVoice": "voices\\page_37\\198_2_1_female.mp3",
+        "maleVoice": "voices\\page_37\\198_2_1_male.mp3"
+      },
+      {
+        "type": "Thể te",
+        "text": "かさばって",
+        "femaleVoice": "voices\\page_37\\198_3_1_female.mp3",
+        "maleVoice": "voices\\page_37\\198_3_1_male.mp3"
+      },
+      {
+        "type": "Thể ta",
+        "text": "かさばった",
+        "femaleVoice": "voices\\page_37\\198_4_1_female.mp3",
+        "maleVoice": "voices\\page_37\\198_4_1_male.mp3"
+      },
+      {
+        "type": "Thể nai",
+        "text": "かさばらない",
+        "femaleVoice": "voices\\page_37\\198_5_1_female.mp3",
+        "maleVoice": "voices\\page_37\\198_5_1_male.mp3"
+      },
+      {
+        "type": "Thể nakatta",
+        "text": "かさばらなかった",
+        "femaleVoice": "voices\\page_37\\198_6_1_female.mp3",
+        "maleVoice": "voices\\page_37\\198_6_1_male.mp3"
+      },
+      {
+        "type": "Thể ba",
+        "text": "かさばれば",
+        "femaleVoice": "voices\\page_37\\198_7_1_female.mp3",
+        "maleVoice": "voices\\page_37\\198_7_1_male.mp3"
+      },
+      {
+        "type": "Thể sai khiến",
+        "text": "かさばらせる",
+        "femaleVoice": "voices\\page_37\\198_8_1_female.mp3",
+        "maleVoice": "voices\\page_37\\198_8_1_male.mp3"
+      },
+      {
+        "type": "Thể bị động",
+        "text": "かさばられる",
+        "femaleVoice": "voices\\page_37\\198_9_1_female.mp3",
+        "maleVoice": "voices\\page_37\\198_9_1_male.mp3"
+      },
+      {
+        "type": "Thể mệnh lệnh",
+        "text": "かさばれ",
+        "femaleVoice": "voices\\page_37\\198_10_1_female.mp3",
+        "maleVoice": "voices\\page_37\\198_10_1_male.mp3"
+      },
+      {
+        "type": "Thể khả năng",
+        "text": "",
+        "femaleVoice": null,
+        "maleVoice": null
+      },
+      {
+        "type": "Thể ý chí",
+        "text": "かさばろう",
+        "femaleVoice": "voices\\page_37\\198_12_1_female.mp3",
+        "maleVoice": "voices\\page_37\\198_12_1_male.mp3"
+      }
+    ]
+  },
+  {
+    "cleanedVerb": "片付きます",
+    "meaning": "Được hoàn thành; kết thúc; được giải quyết; được dọn dẹp",
+    "forms": [
+      {
+        "type": "Thể từ điển",
+        "text": "かたづく",
+        "femaleVoice": "voices\\page_37\\202_1_1_female.mp3",
+        "maleVoice": "voices\\page_37\\202_1_1_male.mp3"
+      },
+      {
+        "type": "Thể masu",
+        "text": "かたづきます",
+        "femaleVoice": "voices\\page_37\\202_2_1_female.mp3",
+        "maleVoice": "voices\\page_37\\202_2_1_male.mp3"
+      },
+      {
+        "type": "Thể te",
+        "text": "かたづいて",
+        "femaleVoice": "voices\\page_37\\202_3_1_female.mp3",
+        "maleVoice": "voices\\page_37\\202_3_1_male.mp3"
+      },
+      {
+        "type": "Thể ta",
+        "text": "かたづいた",
+        "femaleVoice": "voices\\page_37\\202_4_1_female.mp3",
+        "maleVoice": "voices\\page_37\\202_4_1_male.mp3"
+      },
+      {
+        "type": "Thể nai",
+        "text": "かたづかない",
+        "femaleVoice": "voices\\page_37\\202_5_1_female.mp3",
+        "maleVoice": "voices\\page_37\\202_5_1_male.mp3"
+      },
+      {
+        "type": "Thể nakatta",
+        "text": "かたづかなかった",
+        "femaleVoice": "voices\\page_37\\202_6_1_female.mp3",
+        "maleVoice": "voices\\page_37\\202_6_1_male.mp3"
+      },
+      {
+        "type": "Thể ba",
+        "text": "かたづけば",
+        "femaleVoice": "voices\\page_37\\202_7_1_female.mp3",
+        "maleVoice": "voices\\page_37\\202_7_1_male.mp3"
+      },
+      {
+        "type": "Thể sai khiến",
+        "text": "かたづかせる",
+        "femaleVoice": "voices\\page_37\\202_8_1_female.mp3",
+        "maleVoice": "voices\\page_37\\202_8_1_male.mp3"
+      },
+      {
+        "type": "Thể bị động",
+        "text": "かたづかれる",
+        "femaleVoice": "voices\\page_37\\202_9_1_female.mp3",
+        "maleVoice": "voices\\page_37\\202_9_1_male.mp3"
+      },
+      {
+        "type": "Thể mệnh lệnh",
+        "text": "",
+        "femaleVoice": null,
+        "maleVoice": null
+      },
+      {
+        "type": "Thể khả năng",
+        "text": "",
+        "femaleVoice": null,
+        "maleVoice": null
+      },
+      {
+        "type": "Thể ý chí",
+        "text": "かたづこう",
+        "femaleVoice": "voices\\page_37\\202_12_1_female.mp3",
+        "maleVoice": "voices\\page_37\\202_12_1_male.mp3"
+      }
+    ]
+  },
+  {
+    "cleanedVerb": "傾きます",
+    "meaning": "Ẹo; Nghiêng về; có thiên hướng; có khuynh hướng; ngả",
+    "forms": [
+      {
+        "type": "Thể từ điển",
+        "text": "かたむく",
+        "femaleVoice": "voices\\page_37\\203_1_1_female.mp3",
+        "maleVoice": "voices\\page_37\\203_1_1_male.mp3"
+      },
+      {
+        "type": "Thể masu",
+        "text": "かたむきます",
+        "femaleVoice": "voices\\page_37\\203_2_1_female.mp3",
+        "maleVoice": "voices\\page_37\\203_2_1_male.mp3"
+      },
+      {
+        "type": "Thể te",
+        "text": "かたむいて",
+        "femaleVoice": "voices\\page_37\\203_3_1_female.mp3",
+        "maleVoice": "voices\\page_37\\203_3_1_male.mp3"
+      },
+      {
+        "type": "Thể ta",
+        "text": "かたむいた",
+        "femaleVoice": "voices\\page_37\\203_4_1_female.mp3",
+        "maleVoice": "voices\\page_37\\203_4_1_male.mp3"
+      },
+      {
+        "type": "Thể nai",
+        "text": "かたむかない",
+        "femaleVoice": "voices\\page_37\\203_5_1_female.mp3",
+        "maleVoice": "voices\\page_37\\203_5_1_male.mp3"
+      },
+      {
+        "type": "Thể nakatta",
+        "text": "かたむかなかった",
+        "femaleVoice": "voices\\page_37\\203_6_1_female.mp3",
+        "maleVoice": "voices\\page_37\\203_6_1_male.mp3"
+      },
+      {
+        "type": "Thể ba",
+        "text": "かたむけば",
+        "femaleVoice": "voices\\page_37\\203_7_1_female.mp3",
+        "maleVoice": "voices\\page_37\\203_7_1_male.mp3"
+      },
+      {
+        "type": "Thể sai khiến",
+        "text": "かたむかせる",
+        "femaleVoice": "voices\\page_37\\203_8_1_female.mp3",
+        "maleVoice": "voices\\page_37\\203_8_1_male.mp3"
+      },
+      {
+        "type": "Thể bị động",
+        "text": "かたむかれる",
+        "femaleVoice": "voices\\page_37\\203_9_1_female.mp3",
+        "maleVoice": "voices\\page_37\\203_9_1_male.mp3"
+      },
+      {
+        "type": "Thể mệnh lệnh",
+        "text": "かたむけ",
+        "femaleVoice": "voices\\page_37\\203_10_1_female.mp3",
+        "maleVoice": "voices\\page_37\\203_10_1_male.mp3"
+      },
+      {
+        "type": "Thể khả năng",
+        "text": "かたむける",
+        "femaleVoice": "voices\\page_37\\203_11_1_female.mp3",
+        "maleVoice": "voices\\page_37\\203_11_1_male.mp3"
+      },
+      {
+        "type": "Thể ý chí",
+        "text": "かたむこう",
+        "femaleVoice": "voices\\page_37\\203_12_1_female.mp3",
+        "maleVoice": "voices\\page_37\\203_12_1_male.mp3"
+      }
+    ]
+  },
+  {
+    "cleanedVerb": "片寄ります",
+    "meaning": "Nghiêng; lệch; không cân bằng; không công bằng; 偏る.",
+    "forms": [
+      {
+        "type": "Thể từ điển",
+        "text": "かたよる",
+        "femaleVoice": "voices\\page_37\\204_1_1_female.mp3",
+        "maleVoice": "voices\\page_37\\204_1_1_male.mp3"
+      },
+      {
+        "type": "Thể masu",
+        "text": "かたよります",
+        "femaleVoice": "voices\\page_37\\204_2_1_female.mp3",
+        "maleVoice": "voices\\page_37\\204_2_1_male.mp3"
+      },
+      {
+        "type": "Thể te",
+        "text": "かたよって",
+        "femaleVoice": "voices\\page_37\\204_3_1_female.mp3",
+        "maleVoice": "voices\\page_37\\204_3_1_male.mp3"
+      },
+      {
+        "type": "Thể ta",
+        "text": "かたよった",
+        "femaleVoice": "voices\\page_37\\204_4_1_female.mp3",
+        "maleVoice": "voices\\page_37\\204_4_1_male.mp3"
+      },
+      {
+        "type": "Thể nai",
+        "text": "かたよらない",
+        "femaleVoice": "voices\\page_37\\204_5_1_female.mp3",
+        "maleVoice": "voices\\page_37\\204_5_1_male.mp3"
+      },
+      {
+        "type": "Thể nakatta",
+        "text": "かたよらなかった",
+        "femaleVoice": "voices\\page_37\\204_6_1_female.mp3",
+        "maleVoice": "voices\\page_37\\204_6_1_male.mp3"
+      },
+      {
+        "type": "Thể ba",
+        "text": "かたよれば",
+        "femaleVoice": "voices\\page_37\\204_7_1_female.mp3",
+        "maleVoice": "voices\\page_37\\204_7_1_male.mp3"
+      },
+      {
+        "type": "Thể sai khiến",
+        "text": "かたよらせる",
+        "femaleVoice": "voices\\page_37\\204_8_1_female.mp3",
+        "maleVoice": "voices\\page_37\\204_8_1_male.mp3"
+      },
+      {
+        "type": "Thể bị động",
+        "text": "かたよられる",
+        "femaleVoice": "voices\\page_37\\204_9_1_female.mp3",
+        "maleVoice": "voices\\page_37\\204_9_1_male.mp3"
+      },
+      {
+        "type": "Thể mệnh lệnh",
+        "text": "かたよれ",
+        "femaleVoice": "voices\\page_37\\204_10_1_female.mp3",
+        "maleVoice": "voices\\page_37\\204_10_1_male.mp3"
+      },
+      {
+        "type": "Thể khả năng",
+        "text": "",
+        "femaleVoice": null,
+        "maleVoice": null
+      },
+      {
+        "type": "Thể ý chí",
+        "text": "かたよろう",
+        "femaleVoice": "voices\\page_37\\204_12_1_female.mp3",
+        "maleVoice": "voices\\page_37\\204_12_1_male.mp3"
+      }
+    ]
+  },
+  {
+    "cleanedVerb": "勝ち抜きます",
+    "meaning": "Vượt qua thử thách, chướng ngại lớn",
+    "forms": [
+      {
+        "type": "Thể từ điển",
+        "text": "かちぬく",
+        "femaleVoice": "voices\\page_37\\206_1_1_female.mp3",
+        "maleVoice": "voices\\page_37\\206_1_1_male.mp3"
+      },
+      {
+        "type": "Thể masu",
+        "text": "かちぬきます",
+        "femaleVoice": "voices\\page_37\\206_2_1_female.mp3",
+        "maleVoice": "voices\\page_37\\206_2_1_male.mp3"
+      },
+      {
+        "type": "Thể te",
+        "text": "かちぬいて",
+        "femaleVoice": "voices\\page_37\\206_3_1_female.mp3",
+        "maleVoice": "voices\\page_37\\206_3_1_male.mp3"
+      },
+      {
+        "type": "Thể ta",
+        "text": "かちぬいた",
+        "femaleVoice": "voices\\page_37\\206_4_1_female.mp3",
+        "maleVoice": "voices\\page_37\\206_4_1_male.mp3"
+      },
+      {
+        "type": "Thể nai",
+        "text": "かちぬかない",
+        "femaleVoice": "voices\\page_37\\206_5_1_female.mp3",
+        "maleVoice": "voices\\page_37\\206_5_1_male.mp3"
+      },
+      {
+        "type": "Thể nakatta",
+        "text": "かちぬかなかった",
+        "femaleVoice": "voices\\page_37\\206_6_1_female.mp3",
+        "maleVoice": "voices\\page_37\\206_6_1_male.mp3"
+      },
+      {
+        "type": "Thể ba",
+        "text": "かちぬけば",
+        "femaleVoice": "voices\\page_37\\206_7_1_female.mp3",
+        "maleVoice": "voices\\page_37\\206_7_1_male.mp3"
+      },
+      {
+        "type": "Thể sai khiến",
+        "text": "かちぬかせる",
+        "femaleVoice": "voices\\page_37\\206_8_1_female.mp3",
+        "maleVoice": "voices\\page_37\\206_8_1_male.mp3"
+      },
+      {
+        "type": "Thể bị động",
+        "text": "かちぬかれる",
+        "femaleVoice": "voices\\page_37\\206_9_1_female.mp3",
+        "maleVoice": "voices\\page_37\\206_9_1_male.mp3"
+      },
+      {
+        "type": "Thể mệnh lệnh",
+        "text": "かちぬけ",
+        "femaleVoice": "voices\\page_37\\206_10_1_female.mp3",
+        "maleVoice": "voices\\page_37\\206_10_1_male.mp3"
+      },
+      {
+        "type": "Thể khả năng",
+        "text": "かちぬける",
+        "femaleVoice": "voices\\page_37\\206_11_1_female.mp3",
+        "maleVoice": "voices\\page_37\\206_11_1_male.mp3"
+      },
+      {
+        "type": "Thể ý chí",
+        "text": "かちぬこう",
+        "femaleVoice": "voices\\page_37\\206_12_1_female.mp3",
+        "maleVoice": "voices\\page_37\\206_12_1_male.mp3"
+      }
+    ]
+  },
+  {
+    "cleanedVerb": "悲しみます",
+    "meaning": "Bi ai; bi thống; thương tâm; Bi cảm; Đăm đăm; Đau đớn; Lo buồn; Lo phiền; Phát sầu; Than khóc; Thương tình.",
+    "forms": [
+      {
+        "type": "Thể từ điển",
+        "text": "かなしむ",
+        "femaleVoice": "voices\\page_37\\210_1_1_female.mp3",
+        "maleVoice": "voices\\page_37\\210_1_1_male.mp3"
+      },
+      {
+        "type": "Thể masu",
+        "text": "かなしみます",
+        "femaleVoice": "voices\\page_37\\210_2_1_female.mp3",
+        "maleVoice": "voices\\page_37\\210_2_1_male.mp3"
+      },
+      {
+        "type": "Thể te",
+        "text": "かなしんで",
+        "femaleVoice": "voices\\page_37\\210_3_1_female.mp3",
+        "maleVoice": "voices\\page_37\\210_3_1_male.mp3"
+      },
+      {
+        "type": "Thể ta",
+        "text": "かなしんだ",
+        "femaleVoice": "voices\\page_37\\210_4_1_female.mp3",
+        "maleVoice": "voices\\page_37\\210_4_1_male.mp3"
+      },
+      {
+        "type": "Thể nai",
+        "text": "かなしまない",
+        "femaleVoice": "voices\\page_37\\210_5_1_female.mp3",
+        "maleVoice": "voices\\page_37\\210_5_1_male.mp3"
+      },
+      {
+        "type": "Thể nakatta",
+        "text": "かなしまなかった",
+        "femaleVoice": "voices\\page_37\\210_6_1_female.mp3",
+        "maleVoice": "voices\\page_37\\210_6_1_male.mp3"
+      },
+      {
+        "type": "Thể ba",
+        "text": "かなしめば",
+        "femaleVoice": "voices\\page_37\\210_7_1_female.mp3",
+        "maleVoice": "voices\\page_37\\210_7_1_male.mp3"
+      },
+      {
+        "type": "Thể sai khiến",
+        "text": "かなしませる",
+        "femaleVoice": "voices\\page_37\\210_8_1_female.mp3",
+        "maleVoice": "voices\\page_37\\210_8_1_male.mp3"
+      },
+      {
+        "type": "Thể bị động",
+        "text": "かなしまれる",
+        "femaleVoice": "voices\\page_37\\210_9_1_female.mp3",
+        "maleVoice": "voices\\page_37\\210_9_1_male.mp3"
+      },
+      {
+        "type": "Thể mệnh lệnh",
+        "text": "かなしめ",
+        "femaleVoice": "voices\\page_37\\210_10_1_female.mp3",
+        "maleVoice": "voices\\page_37\\210_10_1_male.mp3"
+      },
+      {
+        "type": "Thể khả năng",
+        "text": "かなしめる",
+        "femaleVoice": "voices\\page_37\\210_11_1_female.mp3",
+        "maleVoice": "voices\\page_37\\210_11_1_male.mp3"
+      },
+      {
+        "type": "Thể ý chí",
+        "text": "かなしもう",
+        "femaleVoice": "voices\\page_37\\210_12_1_female.mp3",
+        "maleVoice": "voices\\page_37\\210_12_1_male.mp3"
+      }
+    ]
+  }
+]

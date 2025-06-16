@@ -75,7 +75,7 @@
     const usedVerbs = new Set();
 
 async function loadRandomData() {
-  const totalPages = 10;
+  const totalPages = 90;
   const page = Math.floor(Math.random() * totalPages) + 1;
   const res = await fetch(`verbs/page_${page}.json`);
   const verbs = await res.json();
